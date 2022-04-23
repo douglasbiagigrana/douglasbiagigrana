@@ -7,9 +7,9 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on... 
+🔭 I’m currently working on... 
 
-- 🌱 I’m currently learning iOS Development with Swift, UIKit and SwiftUI 
+🌱 I’m currently learning iOS Development with Swift, UIKit and SwiftUI 
 
 <h2> Skills </h2>
 <a href=https://github.com/douglasbiagigrana?tab=repositories&q=&type=&language=swift&sort=> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
