@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning iOS Development with Swift, UIKit and SwiftUI 
 
 <h2> Skills </h2>
-<a href= https://github.com/?tab=repositories&q=&type=&language=swift&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
+<a href=https://github.com/douglasbiagigrana?tab=repositories&q=&type=&language=swift&sort=> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
 
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/douglasbiagigrana'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
