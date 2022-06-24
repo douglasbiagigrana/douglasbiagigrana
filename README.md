@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers / >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = 50px> </h1>
 <p align='center'>
 
 </p>
@@ -7,7 +7,7 @@
 
 <h2> About Me </h2>
 
-🔭 I’m currently working on... 
+🔭 I’m currently working at Mercado Livre as iOS Software Developer
 
 🌱 I’m currently learning iOS Development with Swift, UIKit and SwiftUI 
 
